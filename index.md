@@ -21,7 +21,15 @@ You can contact us at: contact@north-devs.com.
 
 ### Benjamin Houdebert
 
----
+Everything started after a master degree in computer science in 2005.
+
+Benjamin held different positions with success: developer, project manager, project leader, product owner, architect, technical leader, devops.
+
+Most enjoyable position was always something where he can develop as he's fond of functional programming.
+
+Curious of everything and ready to relearn from the begining, like with haskell or rust.
+
+In fall 2019, a new story began with the creation of North Dev and a new position of freelance.
 
 ### Luca Di Carlo
 

@@ -31,7 +31,7 @@ _Curious of everything and ready to relearn from the begining, like with haskell
 
 En automne 2019 une nouvelle histoire commence avec la création de North Dev et la découverte du freelance.
 
-### Technologies
+#### Benjamin - Technologies
 
 - Programmation fonctionnelle (Haskell à la maison, Vavr au travail)
 - Java
@@ -45,7 +45,7 @@ Après une formation courte en Java, il travaille comme développeur depuis 2016
 
 Il est indépendant depuis 2018.
 
-### Technologies
+#### Luca - Technologies
 
 - Programmation fonctionnelle (Haskell à la maison, Vavr au travail)
 - Java

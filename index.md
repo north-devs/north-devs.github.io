@@ -4,4 +4,12 @@
 
 
 ---
-Coming soon. 
+
+
+# Language
+
+[Français](/fr/about)
+
+[English](/en/about)
+
+---
